@@ -33,7 +33,7 @@ Os dados radiométricos (*i.e.*, K, eU e Th) comumentemente apresentam valores e
 
 Onde μ é média e P99,5(X)é o percentil 99,5 de um dado radioelemento.
 
-Mais informações sobre essa proposta pode ser consultada na monografia [^3] e no [repositório](https://github.com/fnaghetini/Mapa-Preditivo).
+Mais informações sobre essa proposta pode ser consultada na [monografia](http://dx.doi.org/10.13140/RG.2.2.11870.97607) e no [repositório](https://github.com/fnaghetini/Mapa-Preditivo).
 
 #### 4.2 Superamostragem
 A superamostragem consiste na geração de dados sintéticos. A técnica envolve a seleção aleatória de um ponto da classe minoritária e de seu vizinho mais próximo. A diferença entre eles é multiplicada por um número aleatório entre 0 e 1, resultando na geração do dado sintético, em outras palavras, um ponto aleatório é escolhido entre um ponto selecionado e seu vizinho [^4].
@@ -57,10 +57,10 @@ A execução desse *script* requer a instalação do pacote `imbalanced-learn` n
 [^1]: Demsar J, Curk T, Erjavec A, Gorup C, Hocevar T, Milutinovic M, Mozina M, Polajnar M, Toplak M, Staric A, Stajdohar M, Umek L, Zagar L, Zbontar J,
 Zitnik M, Zupan B (2013) Orange: Data Mining Toolbox in Python, Journal of Machine Learning Research 14(Aug): 2349−2353.
 
-[^2]: Kuhn, M., e Johnson, K., 2013b, Data Pre-processing, in Applied Predictive Modeling, New York, NY, Springer New York, p. 27–59, doi:10.1007/978-1-4614-6849-3_3.
+[^2]: Kuhn, M., e Johnson, K., 2013b, Data Pre-processing, in Applied Predictive Modeling, New York, NY, Springer New York, p. 27–59, [doi:10.1007/978-1-4614-6849-3_3](http://dx.doi.org/10.1007/978-1-4614-6849-3_3).
 
-[^3]: Naghetini, F., e Silveira, G., 2021, Utilização de técnicas de Aprendizado de Máquina Supervisionado para mapeamento geológico: um estudo de caso na região de Diamantina, Minas Gerais, Brasil: Universidade Federal de Minas Gerais, 97 p., doi:10.13140/RG.2.2.11870.97607.
+[^3]: Naghetini, F., e Silveira, G., 2021, Utilização de técnicas de Aprendizado de Máquina Supervisionado para mapeamento geológico: um estudo de caso na região de Diamantina, Minas Gerais, Brasil: Universidade Federal de Minas Gerais, 97 p., [doi:10.13140/RG.2.2.11870.97607](http://dx.doi.org/10.13140/RG.2.2.11870.97607).
 
-[^4]: Chawla, N. V., Bowyer, K.W., Hall, L.O., e Kegelmeyer, W.P., 2002, SMOTE: Synthetic Minority Over-sampling Technique: Journal of Artificial Intelligence Research, v. 16, p. 321–357, doi:10.1613/jair.953.
+[^4]: Chawla, N. V., Bowyer, K.W., Hall, L.O., e Kegelmeyer, W.P., 2002, SMOTE: Synthetic Minority Over-sampling Technique: Journal of Artificial Intelligence Research, v. 16, p. 321–357, [doi:10.1613/jair.953](http://dx.doi.org/10.1613/jair.953).
 
-[^5]: Prado, E.M.G., de Souza Filho, C.R., Carranza, E.J.M., e Motta, J.G., 2020, Modeling of Cu-Au prospectivity in the Carajás mineral province (Brazil) through machine learning: Dealing with imbalanced training data: Ore Geology Reviews, v. 124, p. 103611, doi:10.1016/j.oregeorev.2020.103611.
+[^5]: Prado, E.M.G., de Souza Filho, C.R., Carranza, E.J.M., e Motta, J.G., 2020, Modeling of Cu-Au prospectivity in the Carajás mineral province (Brazil) through machine learning: Dealing with imbalanced training data: Ore Geology Reviews, v. 124, p. 103611, [doi:10.1016/j.oregeorev.2020.103611](http://dx.doi.org/10.1016/j.oregeorev.2020.103611).
