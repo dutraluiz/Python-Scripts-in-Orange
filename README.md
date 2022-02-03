@@ -48,7 +48,7 @@ A superamostragem consiste na geração de dados sintéticos. A técnica envolve
 </div> 
 
 O *script* gera os dados sintéticos utilizando o algoritmo SVM (*support vector machine*). Esse método foi utilizado por Prado et al. (2020) [^5]. A documentação completa pode ser consultada em [SVM-SMOTE](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SVMSMOTE.html).
-A execução desse *script* requer a instalação do pacote `imbalanced-learn` no Orange, conforme o tutorial:
+A execução desse *script* requer a instalação do pacote [`imbalanced-learn`](https://imbalanced-learn.org/) no Orange, conforme o tutorial:
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76756542/152425250-fa166d5b-6650-485d-b462-e27cc5b9d704.png" width="50%" height="50%"></p>
